@@ -1,6 +1,6 @@
 ---
 title: "About me"
-layout: default
+layout: page
 ---
 <figure style="float:right; margin:0 0 1em 1em; width:40%;">
     <img src="./assets/images/monyroth.jpg" style="width:100%;" alt="">
