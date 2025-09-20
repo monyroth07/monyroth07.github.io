@@ -19,11 +19,11 @@ show_minimal: false             # remove all clutter
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "archive.html", sidebaricon: home}
-  - {file: "README.md", sidebaricon: address-card}
+  - {file: "index.md", title: "About me", icon: user}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "vonmonyroth.keo@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/monyroth07"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
