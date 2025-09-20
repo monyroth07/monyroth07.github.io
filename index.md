@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Home"
+title: "About me"
+layout: default
 ---
 <figure style="float:right; margin:0 0 1em 1em; width:40%;">
     <img src="./assets/images/monyroth.jpg" style="width:100%;" alt="">
@@ -12,7 +12,7 @@ I am interested in optimization, computer vision, machine learning, deep learnin
 
 Currently, I am working on my self-portfolio and conducting research in Artificial Intelligence (AI) and Machine Learning (ML).
 I graduated from in __Institute of Technology of Cambodia__.
-The manuscript of my Engineering research can be found [here](https://monyroth07.github.io/assets/Keo_vonmonyroth_thesis.pdf)
+The manuscript of my engineering research can be found [here](https://monyroth07.github.io/assets/Keo_vonmonyroth_thesis.pdf)
 
 # Education:
 
@@ -32,18 +32,21 @@ Conducted research on wireless sensing for human detection and movement tracking
 
 # Projects:
 
-__Image and Text to robot command__
+__Robot Navigation using VLM__
 
 leading and developping a small to VLM-based system that interprets image-text input to
-generate actionable commands for robot navigation. Programming in Python (using [Flask](https://flask.palletsprojects.com/en/3.0.x/)), the video of the project can be watched [here](https://monyroth07.github.io/assets/vlm_for_mobile_robot.mp4)
+generate actionable commands for robot navigation. Programming in Python (using [Flask](https://flask.palletsprojects.com/en/3.0.x/)), the video of the project can be watched [here](https://monyroth07.github.io/assets/vlm_for_mobile_robot.mp4).
 
-__Inventory Custodian__
+__RiceCue__
 
-leading and developping a small system to control the flow of items from one location to another in a company. Programming in Python (using [Flask](https://flask.palletsprojects.com/en/3.0.x/))
+leading and developping a small AI-powered mobile app call RiceCue for rice disease detection and prevention. The system classifies rice leaf images into 9 disease categories, provides treatment recommendations, and supports
+Cambodian farmers with a Khmer-friendly interface to improve crop yield. Programming in [Flutter](https://github.com/flutter/flutter) framwork, the poster of this can found [here](https://monyroth07.github.io/assets/app_poster.pdf).
 
-__Robot Navigation using LLM__
+__Human Detection with WiFi CSI__
 
-leading and developping a LLM to control robot via human unstructured command. Programming in Python (using [HuggingFace](https://huggingface.co))
+Assiste on conductig research on human posture estimation using WiFi signals. This work was published at the 13th Scientific Day of ITC. The manuscript of my engineering research can be found [here](https://monyroth07.github.io/assets/Human_detection_with_csi.pdf)
+
+
 
 __AlphaZero for Ouk Chaktrang__
 
