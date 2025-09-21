@@ -35,7 +35,7 @@ Conducted research on wireless sensing for human detection and movement tracking
 __Robot Navigation using VLM__
 
 leading and developping a small to VLM-based system that interprets image-text input to
-generate actionable commands for robot navigation. Programming in Python (using [Flask](https://flask.palletsprojects.com/en/3.0.x/)), the video of the project can be watched [here](https://monyroth07.github.io/assets/vlm_for_mobile_robot.mp4).
+generate actionable commands for robot navigation. Programming in Python (using [Flask](https://flask.palletsprojects.com/en/3.0.x/)), the video of the project can be watched [here](https://youtu.be/junklMEqFC0).
 
 __RiceCue__
 
