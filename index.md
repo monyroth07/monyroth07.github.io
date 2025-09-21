@@ -44,7 +44,7 @@ Cambodian farmers with a Khmer-friendly interface to improve crop yield. Program
 
 __Human Detection with WiFi CSI__
 
-Assiste on conductig research on human posture estimation using WiFi signals. This work was published at the 13th Scientific Day of ITC. The manuscript of my engineering research can be found [here](https://monyroth07.github.io/assets/Human_detection_with_csi.pdf)
+Assiste on conductig research on human posture estimation using WiFi signals. This work was published at the 13th Scientific Day of ITC. The manuscript of my engineering research can be found [here](https://monyroth07.github.io/assets/Human_detection_with_csi.pdf).
 
 
 
