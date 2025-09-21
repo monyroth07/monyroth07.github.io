@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![MUO](https://github.com/monyroth07/monyroth07.github.io/blob/master/assets/images/photo_together.jpg)
+![MUO](https://monyroth07.github.io/assets/images/photo_together.jpg)
 
 
 ## Introduction
