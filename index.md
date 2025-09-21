@@ -48,25 +48,8 @@ Assiste on conductig research on human posture estimation using WiFi signals. Th
 
 
 
-__AlphaZero for Ouk Chaktrang__
+__Topic Dicovery in Research Paper__
 
-leading and developping AlphaZero to play Ouk Chaktrang, Khmer chess known as a variant of Makruk chess. Programming in Pyhon.
+Implementing Term Frequency-Inverse Document Frequency (TF-IDF)  and Latent Dirichlet Allocation
+(LDA) model for automaticly identify extract underlying topics from user-provided paper abstracts. Programming in Python.
 
-__Differential Drive Robot Navigation__
-
-implementing Astar and Dstarlite algorithms for navigation and obstacle avoidances. Programming in Python and ROS2.
-
-<!-- 09/2018 - 03/2019 : -->
-__Image Detection and Recognition applied on insects__
-
-school project as the application in industrial problem. Detecting and recognizing the stages of insects using their images. Implementing AlexNet and Object Detection algorithm. Programming in Python
-
-<!-- 04/2017 - 06/2017 :  -->
-__Drone that follows colored ball__
-
-Programming a drone that detects and follows a colored ball. Programming in Python and ROS
-
-<!-- 09/2016 - 05/2017 : -->
-__Robotic competition__
-
-working in group of 12 students, building a robot achieving different goals during the competition. Programming in C.

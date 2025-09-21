@@ -18,8 +18,9 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", title: "Archive", icon: home}
-  - {file: "index.md", title: "About me", icon: user}
+  - {file: "archive.html", sidebaricon: home}
+  - {file: "index.md", sidebaricon: address-card}
+  - {file: "index.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "vonmonyroth.keo@gmail.com"}
