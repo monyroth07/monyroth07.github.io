@@ -3,7 +3,7 @@ title: "About me"
 layout: page
 ---
 <figure style="float:right; margin:0 0 1em 1em; width:40%;">
-    <img src="./assets/images/monyroth.jpg" style="width:100%;" alt="">
+    <img src="http://monyroth07.github.io/assets/images/monyroth.jpg" style="width:100%;" alt="">
     <figcaption>Vonmonyroth Keo, Engineering's Degree in Data Sicence
     </figcaption>
 </figure>

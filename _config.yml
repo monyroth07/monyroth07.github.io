@@ -23,9 +23,9 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "vonmonyroth.keo@gmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:vonmonyroth.keo@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/monyroth07"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  #- {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
