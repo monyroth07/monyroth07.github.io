@@ -10,7 +10,7 @@ layout: page
 
 I am interested in optimization, computer vision, machine learning, deep learning and IoT (Internet of Things).
 
-Currently, I am working on my self-portfolio and conducting research in Artificial Intelligence (AI) and Machine Learning (ML).
+Currently, I am currently a Data Science portfolio and conducting research in Artificial Intelligence (AI) and Machine Learning (ML).
 I graduated from in __Institute of Technology of Cambodia__.
 The manuscript of my engineering research can be found [here](https://monyroth07.github.io/assets/Keo_vonmonyroth_thesis.pdf)
 
@@ -22,7 +22,7 @@ __02/2020 - 02/2025__ : _Engineer’s Degree in Data Science_, **Institute of Te
 
 __08/2025 - present__ : _Working on my self-portfolio_
 
-__02/2025 - 07/2025__ : _AI Engineer_, the [AI Farm Robotics Company](https://aifarm.dev).
+__02/2025 - 07/2025__ : _AI Engineer_, [AI Farm Robotics Company](https://aifarm.dev).
 
 __07/2024 - 12/2024__ : Data Siencetist Intern in __Ministry of Education Youth and Sport__.
 Analyzed national educational datasets to identify trends in Student, Teacher, School.
@@ -35,7 +35,7 @@ Conducted research on wireless sensing for human detection and movement tracking
 __Robot Navigation using VLM__
 
 leading and developping a small to VLM-based system that interprets image-text input to
-generate actionable commands for robot navigation. Programming in Python (using [Flask](https://flask.palletsprojects.com/en/3.0.x/)), the video of the project can be watched [here](https://youtu.be/junklMEqFC0).
+generate actionable commands for robot navigation. Programming in Python (using [Flask](https://flask.palletsprojects.com/en/3.0.x/)), the video demo of the project can be watched [here](https://youtu.be/junklMEqFC0).
 
 __RiceCue__
 
@@ -44,7 +44,7 @@ Cambodian farmers with a Khmer-friendly interface to improve crop yield. Program
 
 __Human Detection with WiFi CSI__
 
-Assiste on conductig research on human posture estimation using WiFi signals. This work was published at the 13th Scientific Day of ITC. The manuscript of my engineering research can be found [here](https://monyroth07.github.io/assets/Human_detection_with_csi.pdf).
+Assiste on conductig research on human posture estimation using WiFi signals. This work was published at the 13th Scientific Day of ITC. The manuscript of this research can be found [here](https://monyroth07.github.io/assets/Human_detection_with_csi.pdf).
 
 
 
