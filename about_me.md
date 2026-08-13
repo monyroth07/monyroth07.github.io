@@ -20,7 +20,7 @@ __02/2020 - 02/2025__ : _Engineer’s Degree in Data Science_, **Institute of Te
 
 # Professional Experiences:
 
-__08/2025 - present__ : _Working on my self-portfolio_
+__08/2025 - present__ : _Data Engineer_, [Dynamic Advanced Group](https://www.dynamic.com.kh/)
 
 __02/2025 - 07/2025__ : _AI Engineer_, [AI Farm Robotics Company](https://aifarm.dev).
 
@@ -31,6 +31,8 @@ __01/2024 - 07/2024__ : Research Assistant in Research and Data Analytics Lab of
 Conducted research on wireless sensing for human detection and movement tracking using Wi-Fi Channel State Information(CSI).
 
 # Projects:
+
+__Enterprise Data Warehouse__
 
 __Robot Navigation using VLM__
 
