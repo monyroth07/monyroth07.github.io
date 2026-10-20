@@ -4,13 +4,13 @@ layout: page
 ---
 <figure style="float:right; margin:0 0 1em 1em; width:40%;">
     <img src="http://monyroth07.github.io/assets/images/monyroth.jpg" style="width:100%;" alt="">
-    <figcaption>Vonmonyroth Keo, Engineering's Degree in Data Sicence
+    <figcaption>Data/AI Engineer
     </figcaption>
 </figure>
 
-I am interested in optimization, computer vision, machine learning, deep learning and IoT (Internet of Things).
+I am interested in optimization, LLM, machine learning, deep learning and IoT (Internet of Things).
 
-Currently, I am currently a Data Science portfolio and conducting research in Artificial Intelligence (AI) and Machine Learning (ML).
+Currently, I am currently working as Data Engineer at [Dynamic Advanced Group](https://www.dynamic.com.kh/) and conducting research in Artificial Intelligence (AI) and Machine Learning (ML).
 I graduated from in __Institute of Technology of Cambodia__.
 The manuscript of my engineering research can be found [here](https://monyroth07.github.io/assets/Keo_vonmonyroth_thesis.pdf)
 
@@ -32,11 +32,9 @@ Conducted research on wireless sensing for human detection and movement tracking
 
 # Projects:
 
-__Enterprise Data Warehouse__
-
 __Robot Navigation using VLM__
 
-leading and developping a small to VLM-based system that interprets image-text input to
+Researched and developped a small to VLM-based system that interprets image-text input to
 generate actionable commands for robot navigation. Programming in Python (using [Flask](https://flask.palletsprojects.com/en/3.0.x/)), the video demo of the project can be watched [here](https://youtu.be/junklMEqFC0).
 
 __RiceCue__
