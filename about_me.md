@@ -20,11 +20,11 @@ __02/2020 - 02/2025__ : _Engineer’s Degree in Data Science_, **Institute of Te
 
 # Professional Experiences:
 
-__08/2025 - present__ : _Data Engineer_, [Dynamic Advanced Group](https://www.dynamic.com.kh/)
+__10/2025 - Present__ : _Data Engineer_, [Dynamic Advanced Group](https://www.dynamic.com.kh/)
 
-__02/2025 - 07/2025__ : _AI Engineer_, [AI Farm Robotics Company](https://aifarm.dev).
+__01/2025 - 07/2025__ : _AI Engineer_, [AI Farm Robotics Company](https://aifarm.dev).
 
-__07/2024 - 12/2024__ : Data Siencetist Intern in __Ministry of Education Youth and Sport__.
+__07/2024 - 11/2024__ : Data Siencetist Intern in __Ministry of Education Youth and Sport__.
 Analyzed national educational datasets to identify trends in Student, Teacher, School.
 
 __01/2024 - 07/2024__ : Research Assistant in Research and Data Analytics Lab of __Institute of Technology of Cambodia__.
